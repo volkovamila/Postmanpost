@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
-    class PostDataTest {
+    class PostmanPostTest {
         @Test
         void RequestForResponse() {
             // Given - When - Then
